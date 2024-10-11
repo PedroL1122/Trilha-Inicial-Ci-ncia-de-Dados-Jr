@@ -15,9 +15,12 @@ Exportação dos resultados para um arquivo .csv para análise futura.
 
 
 .
-├── vendas_cursos.csv         Arquivo CSV gerado a partir da análise
+├── vendas_cursos.csv     Arquivo CSV gerado a partir da análise
+
 ├── analise_vendas_cursos.ipynb  Jupyter Notebook com todo o código da análise
+
 ├── README.md                  Descrição do projeto
+
 └── requirements.txt           Lista das dependências necessárias
 
 
