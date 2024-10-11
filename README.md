@@ -1,6 +1,7 @@
 ### Análise de Vendas de Cursos
 
 Descrição do Projeto
+
 Este projeto realiza uma análise detalhada das vendas de cursos de uma plataforma online.
 A partir de dados sobre vendas, como nome do curso, quantidade vendida, preço unitário e data de venda, são gerados insights importantes e visualizações gráficas que permitem entender melhor o desempenho dos cursos ao longo do tempo.
 
