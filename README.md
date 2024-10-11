@@ -44,7 +44,7 @@ Gráfico de Linha: Receita ao longo dos dias, mostrando a tendência das vendas.
 
 Gráfico de Barras: Quantidade de vendas por curso, facilitando a comparação do desempenho entre os cursos.
 
-<img src="https://github.com/PedroL1122/Trilha-Inicial-Ciencia-de-Dados-Jr/issues/2#issue-2580389258" alt="Gráfico de Barras das Vendas por Curso" width="500"> 
+<img src="" alt="Gráfico de Barras das Vendas por Curso" width="500"> 
 
 
 
