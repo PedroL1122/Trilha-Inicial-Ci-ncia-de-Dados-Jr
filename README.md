@@ -39,14 +39,13 @@ Os resultados da análise são exportados para um arquivo CSV chamado vendas_cur
 As visualizações incluem:
 
 Gráfico de Linha: Receita ao longo dos dias, mostrando a tendência das vendas.
-Gráfico de Barras: Quantidade de vendas por curso, facilitando a comparação do desempenho entre os cursos.
 
 <img src="https://github.com/user-attachments/assets/763a12f6-30a1-4084-9be4-271569a1050f" alt="Gráfico de Receita ao Longo do Tempo" width="500"> 
 
-<img src="https://github.com/PedroL1122/Trilha-Inicial-Ciencia-de-Dados-Jr/issues/2#issue-2580389258" alt="Gráfico de Barras das Vendas por Curso" width="500">
+Gráfico de Barras: Quantidade de vendas por curso, facilitando a comparação do desempenho entre os cursos.
 
-Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
+<img src="https://github.com/PedroL1122/Trilha-Inicial-Ciencia-de-Dados-Jr/issues/2#issue-2580389258" alt="Gráfico de Barras das Vendas por Curso" width="500"> 
+
 
 
 # Contato
