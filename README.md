@@ -13,14 +13,15 @@ Exportação dos resultados para um arquivo .csv para análise futura.
 
 # Estrutura do Projeto
 
-plaintext
-Copy code
+
 .
-├── vendas_cursos.csv          # Arquivo CSV gerado a partir da análise
-├── analise_vendas_cursos.ipynb  # Jupyter Notebook com todo o código da análise
-├── README.md                  # Descrição do projeto
-└── requirements.txt           # Lista das dependências necessárias
-Instalação
+├── vendas_cursos.csv         Arquivo CSV gerado a partir da análise
+├── analise_vendas_cursos.ipynb  Jupyter Notebook com todo o código da análise
+├── README.md                  Descrição do projeto
+└── requirements.txt           Lista das dependências necessárias
+
+
+# Instalação
 Pré-requisitos
 Antes de começar, certifique-se de ter o Python 3.x instalado em sua máquina. Além disso, recomenda-se o uso de um ambiente virtual para instalar as dependências do projeto, como venv.
 
