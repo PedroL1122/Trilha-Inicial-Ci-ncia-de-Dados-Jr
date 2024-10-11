@@ -20,7 +20,7 @@ Exportação dos resultados para um arquivo .csv para análise futura.
 # Estrutura do Projeto
 
 
-.
+
 ├── vendas_cursos.csv     Arquivo CSV gerado a partir da análise
 
 ├── analise_vendas_cursos.ipynb  Jupyter Notebook com todo o código da análise
@@ -33,8 +33,11 @@ Exportação dos resultados para um arquivo .csv para análise futura.
 # Explicação dos Cálculos
 
 Cálculo da Receita: Multiplicação da Quantidade de Vendas pelo Preço Unitário de cada curso.
+
 Curso Mais Vendido: Identificação do curso com a maior quantidade de vendas usando a função idxmax() para localizar o curso.
+
 Receita ao Longo do Tempo: Uso do resample para agrupar a receita diária e gerar um gráfico de linha que mostra a variação ao longo dos dias.
+
 Gráfico de Barras das Vendas: Visualização da quantidade de vendas por curso usando o barplot do Seaborn.
 
 # Exportação dos Resultados
