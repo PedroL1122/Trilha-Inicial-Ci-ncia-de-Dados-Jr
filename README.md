@@ -61,5 +61,7 @@ Gráfico de Barras: Quantidade de vendas por curso, facilitando a comparação d
 Para dúvidas ou sugestões, entre em contato:
 
 Nome: Pedro Henrique Cunegundes
+
 E-mail: bangue062@gmail.com
+
 LinkedIn: Pedro Cunegundes
